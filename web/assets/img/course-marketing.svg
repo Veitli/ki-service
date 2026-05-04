@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="Marketing KI">
+  <rect width="1200" height="680" fill="#0f1a36"/>
+  <g fill="#5edbff" fill-opacity="0.85">
+    <polygon points="250,500 360,240 470,500"/>
+    <polygon points="500,500 610,170 720,500"/>
+    <polygon points="750,500 860,290 970,500"/>
+  </g>
+</svg>

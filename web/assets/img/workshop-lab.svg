@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Workshop Lab">
+  <rect width="1200" height="760" fill="#102044"/>
+  <g stroke="#5edbff" stroke-opacity="0.6" fill="none" stroke-width="2">
+    <circle cx="290" cy="380" r="120"/>
+    <circle cx="600" cy="380" r="180"/>
+    <circle cx="910" cy="380" r="120"/>
+    <path d="M410 380 H780"/>
+  </g>
+</svg>
