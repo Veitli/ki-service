@@ -54,7 +54,7 @@
       applyTranslations(content[currentLang]);
       document.documentElement.lang = "de";
     } catch (error) {
-      console.error("Uebersetzungen konnten nicht geladen werden", error);
+      console.error("Übersetzungen konnten nicht geladen werden", error);
     }
   };
 
